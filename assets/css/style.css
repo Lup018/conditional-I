@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(5, 0, 78);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    border-style: none;
+}
+
+.image {
+    width: 500px;
+}
